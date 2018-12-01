@@ -101,5 +101,5 @@ A następnie użyć jej podczas konfiguracji
 - https://stackoverflow.com/questions/50727860/ef-core-2-1-hasconversion-on-all-properties-of-type-datetime
 - https://docs.microsoft.com/en-us/ef/core/modeling/value-conversions
 
-## Biblioteki
+## Linki
 https://github.com/Innofactor/EfCoreJsonValueConverter
